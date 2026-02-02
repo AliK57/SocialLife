@@ -1,0 +1,18 @@
+{
+    "name": "sociallife",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "script": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencis": {
+        "vue": "^3.4.0"
+    },
+    "devDependencis":{
+        "@vitejs/plugin-vue": "^5.0.0",
+        "vite": "^5.0.0"
+    }
+}
